@@ -34,7 +34,7 @@ We’re a small, focused team with complementary strengths.
 * **Irechukwu Nkweke** – Founder · AI Engineer · Data Scientist
   Shapes our technical vision and leads AI development
 
-* **Samuel Ogoegbu** – Python Engineer · Backend Developer
+* **Samuel 'Maxim' Ogoegbu** – Python Engineer · Backend Developer
   Builds reliable systems and scalable backend architecture
 
 * **Joshua Utik** – Frontend Developer
